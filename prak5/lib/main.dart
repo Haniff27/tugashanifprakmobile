@@ -20,7 +20,7 @@ class _MyAppState extends State<MyApp> {
           children: <Widget>[
             Container(
               alignment: AlignmentDirectional.topCenter,
-              child: Image.asset("assets/Tugas10.jpg"),
+              child: Image.asset("assets/islam.jpg"),
             ),
             const SizedBox(
               height: 10,
@@ -28,7 +28,7 @@ class _MyAppState extends State<MyApp> {
             Container(
                 margin: const EdgeInsets.all(10),
                 child: const Text(
-                  'ASTROID',
+                  'ISLAM ITU INDAH',
                   style: TextStyle(fontWeight: FontWeight.bold),
                 )),
             Container(
@@ -70,7 +70,7 @@ class _MyAppState extends State<MyApp> {
               height: 10,
             ),
             Text(
-              'Luar angkasa atau angkasa luar atau antariksa (juga dikata sbg angkasa), merujuk ke bidang yang relatif kosong dari Jagad Raya, di luar atmosfer dari benda "celestial". Istilah luar angkasa dipergunakan untuk membedakannya dengan ruang udara dan tempat "terrestrial.Ketinggian minimal untuk orbit stabil dimulai sekitar 350 km (220 mil) di atas permukaan laut rata-rata, sah untuk melaksanakan penerbangan angkasa orbital nyata, suatu pesawat harus terbang semakin tinggi dan (yang semakin penting) semakin cepat dari yang dibutuhkan untuk penerbangan angkasa sub-orbital.',
+              'Islam berakar kata dari “aslama”, “yuslimu”, “islaaman” yang berarti tunduk, patuh, dan selamat. Islam berarti kepasrahan atau ketundukan secara total kepada Allah SWT. Orang yang beragama Islam berarti ia pasrah dan tunduk patuh terhadap ajaran-ajaran Islam. Seorang muslim berarti juga harus mampu menyelamatkan diri sendiri, juga menyelamatkan orang lain. Tidak cukup selamat tetapi juga menyelamatkan.الْمُسْلِمُ مَنْ سَلِمَ الْمُسْلِمُونَ مِنْ لِسَانِهِ وَيَدِه، وَالْمُهَاجِرُ مَنْ هَجَرَ مَا نَهَى اللَّهُ عَنْهُ Artinya:Seorang muslim itu yang menyelamatkan muslim yang lain dari perkataannya, dan dari perbuatan tangannya, dan orang yang berhijrah adalah orang yang berhijrah dari sesuatu yang dilarang Allah. (HR. Nasa’i).',
             ),
           ],
         ),
